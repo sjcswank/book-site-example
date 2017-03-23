@@ -1,0 +1,98 @@
+body {
+  padding-top: 50px;
+}
+
+
+
+.navbar-right a{
+    padding:0px !important;
+}
+
+.jumbotron {
+    padding: 0 !important;
+}
+
+.jumbotron img {
+    width: 100%;
+    height: auto;
+}
+
+.about h2 {
+    font-family: 'Nova Oval', cursive;
+    text-align: center;
+}
+
+.about p {
+    font-family: 'Goudy Bookletter 1911', serif;
+    text-align: justify;
+    font-size: 18px;
+}
+
+.about h3 {
+    font-family: 'Nova Oval', cursive;
+}
+
+.about small {
+    font-family: 'Goudy Bookletter 1911', serif;
+    font-size: 18px;
+}
+
+.authors {
+    border-top-style: solid;
+    border-top-color: #c43636;
+    border-top-width: medium;
+    margin-top: 20px;
+}
+
+.authors img{
+    padding-top: 20px;
+}
+
+.authors h2, h3 {
+    font-family: 'Goudy Bookletter 1911', serif;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.authors p {
+    font-family: 'Goudy Bookletter 1911', serif;
+    text-align: justify;
+    font-size: 18px;
+    padding: 20px;
+}
+
+.neil p {
+    font-family: 'Goudy Bookletter 1911', serif;
+    text-align: justify;
+    font-size: 18px;
+    padding: 5px 20px 5px 20px;
+}
+
+.terry p {
+    font-family: 'Goudy Bookletter 1911', serif;
+    text-align: justify;
+    font-size: 18px;
+    padding: 5px 20px 5px 20px;
+}
+
+.find {
+    border-top-style: solid;
+    border-top-color: #c43636;
+    border-top-width: medium;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.links {
+    margin-bottom: 20px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.links a {
+    border-style: solid;
+    border-color: #c43636;
+    margin: 10px;
+
+}
